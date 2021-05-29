@@ -1,7 +1,2 @@
 
 Copyright 2021
-
-&;html@gt&alt
-Markdown is a lightweight markup language
-
-Copyright
