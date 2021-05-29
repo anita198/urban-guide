@@ -3,6 +3,8 @@ layout: demo_template
 createdon: 29-may-2021
 ---
 
+{% exampleforincludes.txt%}
+
 This is the header
 
 This is a sample text for testingThis is a sample text for testing
@@ -15,6 +17,8 @@ This is a sample text for testing
 This is a sample text for testing
 
 [Link to google page] (homepge.md)
+
+**Hey {{site.name}}**
 
 This is a sample text for testing
 
