@@ -2,8 +2,9 @@
 layout: demo_template
 createdon: 29-may-2021
 ---
+Example for include below:
 
-{% exampleforincludes.txt%}
+{% include exampleforincludes.txt%}
 
 This is the header
 
