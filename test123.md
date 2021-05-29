@@ -6,6 +6,14 @@ Example for include below:
 
 {% include exampleforincludes.txt %}
 
+History
+| Dates | Company | 
+| ----| -----|
+| 1806 - present | India | 
+| 1706 - 0805 | India|
+| 1807 - |
+
+
 This is the header
 
 This is a sample text for testingThis is a sample text for testing
