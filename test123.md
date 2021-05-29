@@ -13,6 +13,9 @@ This is a sample text for testing
 This is a sample text for testing
 This is a sample text for testing
 This is a sample text for testing
+
+[Link to google page] (homepge.md)
+
 This is a sample text for testing
 
 _"Header1"_
