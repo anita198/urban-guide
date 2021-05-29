@@ -16,6 +16,8 @@ History
 
 This is the header
 
+{% include exampleforincludes.txt %}
+
 This is a sample text for testingThis is a sample text for testing
 This is a sample text for testing
 _"Header1"_
