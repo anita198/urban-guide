@@ -11,7 +11,12 @@ This is the header
 This is a sample text for testingThis is a sample text for testing
 This is a sample text for testing
 _"Header1"_
-This is a sample text for testing
+History
+| Dates | Company | 
+| ----| -----|
+| 1806 - present | India | 
+| 1706 - 0805 | India|
+| 1807 - |
 
 
 [Link to google page] (homepge.md)
